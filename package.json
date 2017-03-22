@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Kistel/Hello-world/issues"
   },
-  "homepage": "https://github.com/Kistel/Hello-world#readme"
+  "homepage": "https://github.com/Kistel/Hello-world#readme",
+  "dependencies": {
+    "express": "4.15.2"
+  }
 }
